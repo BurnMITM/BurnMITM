@@ -1,16 +1,13 @@
-## Hi there 👋
+# Привет! 👋  
+Я **BurnMITM**, разработчик, увлекающийся Android и реверс-инжинирингом.  
 
-<!--
-**BurnMITM/BurnMITM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Технологии, с которыми работаю:
+- 🐍 Python (Frida, анализ бинарников)
+- ☕ Java/Kotlin (Android-разработка, TDLib)
+- 🌍 Go (fhttp, utls, tls-client)
 
-Here are some ideas to get you started:
+## 📊 Статистика GitHub:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BurnMITM&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Контакты:
+- 📧 Telegram: [@diduk12](https://t.me/diduk12)
